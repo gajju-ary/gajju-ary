@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gajju-ary
 - 👀 I’m interested in JobRole Software Developer
-- 🌱 I’m currently learning C++ & DSA
+- 🌱 I’m currently learning Java & DSA
 - 💞️ I’m looking to collaborate on Some Website Development
 - 📫 
 
