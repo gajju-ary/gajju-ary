@@ -8,8 +8,9 @@
 <!---
 gajju-ary/gajju-ary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![Masterhead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 --->
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img align="right" alt="Coding" height="480" width="100%" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 <h1 align="center">Hi 👋, I'm Gajendra Choudhary</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -48,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 <div></div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajju-ary&show_icons=true&locale=en&layout=compact" alt="gajju-ary" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gajju-ary&show_icons=true&locale=en" alt="gajju-ary" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gajju-ary&" alt="gajju-ary" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gajju-ary&" alt="gajju-ary" /></p>
