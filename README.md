@@ -20,11 +20,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://www.linkedin.com/in/gajju-ary/" target="blank"><img src="https://img.shields.io/twitter/follow/gajju-ary?logo=linkedin&style=for-the-badge" alt="gajju-ary" /></a> </p>
 --->
 
-- 🔭 I’m Currently Working with **Xtranet Technologies Pvt Ltd**
+- 🔭 I’m Currently Working with **MDP Infra Pvt Ltd**
 - 💞️ I’m available to collaborate on **Website Development** 
 - 🌱 I’m Currently Enhancing My **C#, PostgreSQL** Skills
-
-- 📫 You Can Reach Me at Email: **gajendrachoudhary18@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
